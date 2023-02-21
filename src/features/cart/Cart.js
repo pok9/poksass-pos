@@ -33,7 +33,7 @@ const Cart = () => {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>Customer Info</Accordion.Header>
+          <Accordion.Header>Customer InFo</Accordion.Header>
           <Accordion.Body>
             <CustomerInfo />
           </Accordion.Body>
